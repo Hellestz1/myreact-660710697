@@ -7,7 +7,7 @@ import JSXExamples from './components/JSXExamples';
 function App() {
   return (
     <div className="App">
-      
+      <JSXExamples />
       <Hello/>
       
       <header className="App-header">
