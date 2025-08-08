@@ -7,9 +7,9 @@ import JSXExamples from './components/JSXExamples';
 function App() {
   return (
     <div className="App">
-      <JSXExamples />
-      <Hello/>
       
+      <Hello/>
+      <JSXExamples />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
